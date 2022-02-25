@@ -21,4 +21,5 @@ function func() {
       break;
   }
 
+  document.getElementById("result").innerHTML = result
 }
