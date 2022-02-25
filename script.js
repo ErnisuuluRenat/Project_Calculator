@@ -23,3 +23,5 @@ function func() {
 
   document.getElementById("result").innerHTML = result
 }
+
+let array = [1,2,34,343,55,6,5,6,4,6]
